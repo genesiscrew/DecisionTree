@@ -1,0 +1,5 @@
+ 
+run this command from the console: 
+java -jar decision.jar part2/hepatitis-training.dat part2/hepatitis-test.dat
+
+

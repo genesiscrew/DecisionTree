@@ -1,0 +1,55 @@
+run1
+baseline prediction is: 0.918918918918919
+ succesful predictions are: 31.0
+ size of sample is: 37
+accuracy of decision tree is 0.8378378378378378
+run2
+baseline prediction is: 0.8918918918918919
+ succesful predictions are: 31.0
+ size of sample is: 37
+accuracy of decision tree is 0.8378378378378378
+run3
+baseline prediction is: 0.8648648648648649
+ succesful predictions are: 31.0
+ size of sample is: 37
+accuracy of decision tree is 0.8378378378378378
+run4
+baseline prediction is: 0.7837837837837838
+ succesful predictions are: 27.0
+ size of sample is: 37
+accuracy of decision tree is 0.7297297297297297
+run5
+baseline prediction is: 0.8918918918918919
+ succesful predictions are: 29.0
+ size of sample is: 37
+accuracy of decision tree is 0.7837837837837838
+run6
+baseline prediction is: 0.7837837837837838
+ succesful predictions are: 26.0
+ size of sample is: 37
+accuracy of decision tree is 0.7027027027027027
+run7
+baseline prediction is: 0.8918918918918919
+ succesful predictions are: 31.0
+ size of sample is: 37
+accuracy of decision tree is 0.8378378378378378
+run8
+baseline prediction is: 0.8648648648648649
+ succesful predictions are: 26.0
+ size of sample is: 37
+accuracy of decision tree is 0.7027027027027027
+run9
+baseline prediction is: 0.8378378378378378
+ succesful predictions are: 30.0
+ size of sample is: 37
+accuracy of decision tree is 0.8108108108108109
+run10
+baseline prediction is: 0.8108108108108109
+ succesful predictions are: 29.0
+ size of sample is: 37
+accuracy of decision tree is 0.7837837837837838
+
+
+
+
+
